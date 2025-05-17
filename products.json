@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dress",
+        "price": 800,
+        "image": "product1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dress",
+        "price": 800,
+        "image": "product2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dress",
+        "price": 800,
+        "image": "product3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dress",
+        "price": 800,
+        "image": "product4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dress",
+        "price": 800,
+        "image": "product5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dress",
+        "price": 800,
+        "image": "product6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dress",
+        "price": 800,
+        "image": "product7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dress",
+        "price": 800,
+        "image": "product8.jpg"
+    }
+]
